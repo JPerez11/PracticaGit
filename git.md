@@ -1,0 +1,29 @@
+**CURSO GIT**
+
+***COMANDOS***
+
+```bash
+git init
+# Crea un repositirio Git o reinicia uno existente.
+
+git add _Nombre del archivo_
+# Agrega el contenido del archivo al index
+
+git status
+# Muestra un resumen del cual los archivos tienen cambios que se organizan para la próxima configuración 
+
+git status -s
+# La opción s de short, da una salida en formato corto
+
+git commit
+# Registra los cambios en el repositorio
+
+git commit -m "Mensaje de confirmación"
+# La opción m de message, se utiliza para dar un mensaje de confirmación
+
+git log
+# Muestra los registros de confirmación (commits)
+
+git log --oneline
+# formatea el log para mostrar los mensajes en una línea
+```
