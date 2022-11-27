@@ -41,7 +41,19 @@ git commit -am ""
 
 git commit --amend
 # Editor vim
-# 
+# Permite arreglar o modificar la descripción del commit.
+
+git push
+# Permite actualizar referencias remotas junto con objetos asociados.
+
+git remote add origin _dirección del repositorio_
+# Comando para iniciar un repositorio remoto.
+
+git branch -M main
+# Cambia el nombre de la rama.
+
+git push -u origin main
+# Comando para actualizar el repositorio en github.
 ```
 ***Pasos básicos para utilizar repositorio Git***
 
