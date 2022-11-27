@@ -64,6 +64,18 @@ git tag _nombre del tag_ -m "_Descripción del tag_"
 
 git push --tags
 # Actualiz el tag en el repositorio de github.
+
+git branch
+# Lista las ramas existentes.
+
+git branch _nombre de la rama_
+# Crea la rama con el nombre del parametro.
+
+git checkout _nombre de la rama_
+# Cambia a la rama del parametro.
+
+git merge _nombre de la rama_
+# Desde la rama principal, une el branch que del parametro con ella.
 ```
 ***Pasos básicos para utilizar repositorio Git***
 
