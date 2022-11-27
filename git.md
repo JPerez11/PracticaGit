@@ -39,7 +39,9 @@ git reset --hard _id de la copia_
 git commit -am ""
 # hace el commit sin necesidad del add ., ya que, con -am lo hace automaticamente.
 
-
+git commit --amend
+# Editor vim
+# 
 ```
 ***Pasos básicos para utilizar repositorio Git***
 
