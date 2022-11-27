@@ -61,6 +61,9 @@ git pull
 
 git tag _nombre del tag_ -m "_Descripción del tag_"
 # Crea una etiqueta o tag para referenciar una versión del proyecto.
+
+git push --tags
+# Actualiz el tag en el repositorio de github.
 ```
 ***Pasos básicos para utilizar repositorio Git***
 
