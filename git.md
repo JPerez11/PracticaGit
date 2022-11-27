@@ -35,4 +35,21 @@ git reset
 
 git reset --hard _id de la copia_
 # Reestablece el indice y el árbol de trabajo.
+
+git commit -am ""
+# hace el commit sin necesidad del add ., ya que, con -am lo hace automaticamente.
+
+
+```
+***Pasos básicos para utilizar repositorio Git***
+
+```bash
+# Primero se debe crear el repositorio.
+git init
+# Luego se deben agregar los archivos al staging area.
+git add .
+o
+git add _nombre del archivo_
+# El siguiente paso es enviar al repositorio local.
+git commit -m  ""
 ```
