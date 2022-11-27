@@ -58,6 +58,9 @@ git push
 
 git pull
 # Permite obtener e integrar repositorios o un branch local.
+
+git tag _nombre del tag_ -m "_Descripción del tag_"
+# Crea una etiqueta o tag para referenciar una versión del proyecto.
 ```
 ***Pasos básicos para utilizar repositorio Git***
 
